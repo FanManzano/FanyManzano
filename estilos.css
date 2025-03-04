@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+    font-family: Arial,sans-serif;
+    text-align: center;
+}
+
+hi{
+    color: blueviolet;
+}
+
+p{
+    font-size: 18px;
+    color: blueviolet;
+}
